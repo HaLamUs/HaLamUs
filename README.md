@@ -2,8 +2,9 @@
 
 ![LamHa's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaLamUs&show_icons=true&theme=synthwave)
 
+![Visitor Count](https://profile-counter.glitch.me/HaLamUs/count.svg)
 
-- 👋 Greetings, I’m Lam, from 🇻🇳
+👋 Greetings, I’m Lam, from 🇻🇳
 - Software engineer, builder, hodl 👷‍♂️
 - Master degree in Computer Science. 👨‍🎓
 - Mostly start-ups.
