@@ -1,10 +1,10 @@
 ### Welcome ✨
 
-![LamHa's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaLamUs&show_icons=true&theme=radical&custom_title=Lam's%20Stats)
+![LamHa's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaLamUs&show_icons=true&theme=radical&include_all_commits=true&custom_title=Lam's%20Stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaLamUs&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HaLamUs&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HaLamUs&include_all_commits=true&theme=radical)
 
 ![Visitor Count](https://profile-counter.glitch.me/HaLamUs/count.svg)
 
